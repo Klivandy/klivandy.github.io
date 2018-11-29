@@ -24,10 +24,6 @@
 
 body{
   background-image: url("background2.jpg");
-  width: 100%;
-  height: auto;
-  background-repeat: no-repeat;
-  background-size: contain;
 }
 
 table,h2{
